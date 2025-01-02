@@ -152,7 +152,7 @@ Design and analyze deep learning models based on CNNs to achieve accurate and re
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/username/repo-name.git](https://github.com/KaranShrestha16/Enhancing-Motor-Imagery-EEG-Signal-Classification-Using-Optimized-CNN-Architectures-for-BCI.git
 ```
 
 Install dependencies:
