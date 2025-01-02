@@ -152,33 +152,10 @@ Design and analyze deep learning models based on CNNs to achieve accurate and re
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/username/repo-name.git](https://github.com/KaranShrestha16/Enhancing-Motor-Imagery-EEG-Signal-Classification-Using-Optimized-CNN-Architectures-for-BCI.git
 ```
 
-Install dependencies:
 
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Usage
-
-1. Preprocess EEG Data:
-   ```python
-   python preprocess.py --input data/raw --output data/processed
-   ```
-2. Train Model:
-   ```python
-   python train.py --config configs/eegnet.json
-   ```
-3. Evaluate Model:
-   ```python
-   python evaluate.py --model saved_models/eegnet.h5
-   ```
-
----
 
 ## Acknowledgements
 
